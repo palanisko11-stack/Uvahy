@@ -1,0 +1,43 @@
+{
+  "portfolio_title": "Digitální Křemík & Nekonečný Pamětní Canvas",
+  "author": "Osobní AI Kolaborant & Uživatel",
+  "vision_statement": "Konceptuální architektura pro klientskou AI, kde plátno (Canvas) neslouží jako pasivní výstup, ale jako živá 2D paměťová matice a prostorová neuronová síť s nekonečným růstem.",
+  "core_concepts": [
+    {
+      "id": 1,
+      "title": "Virtuální křemík a softwarový hardware",
+      "description": "Simulace logiky a struktury čipů v softwarovém prostředí před fyzickou výrobou mask setů.",
+      "technology_stack": ["SystemVerilog", "Verilator", "WASM", "WebGL"]
+    },
+    {
+      "id": 2,
+      "title": "5D optické paměťové krystaly",
+      "description": "Nezničitelné křemenné sklo využívající femtosekundový laser pro zápis dat do 3D voxelové mřížky s trvanlivostí miliardy let.",
+      "application": "Časové kapsle, archivace lidského genomu a globálního kultovního dědictví."
+    },
+    {
+      "id": 3,
+      "title": "Canvas jako datová struktura a paměťová matice",
+      "description": "Využití obrazové paměti pixelů (RGBA kanály) a shaderů jako nízkoúrovňového úložiště pro váhy modelů, embeddingy a stavy sítě.",
+      "advantage": "Masivní paralelizace přes GPU, přímá vizualizace stavu AI."
+    },
+    {
+      "id": 4,
+      "title": "Hybridní stránkovaná paměť (Canvas + SSD)",
+      "description": "Implementace principu virtuálního stránkování v prohlížeči. Canvas slouží jako rychlá L1/L2 cache (viewport), zatímco trvalá data a váhy modelu žijí v lokální databázi IndexedDB/OPFS.",
+      "benefit": "Omezení pouze kapacitou disku uživatele, možnost streamování modelů o velikosti gigabytů."
+    },
+    {
+      "id": 5,
+      "title": "Nekonečný procedurální svět pro LLM",
+      "description": "Živý ekosystém tokenů rostoucích ve spirále v reálném čase podle uživatelského vstupu. AI se v prostoru fyzicky orientuje a vyhledává kontext bez nutnosti lineárního řezání paměti.",
+      "metaphor": "Minecraft pro jazykové modely s vizualizací Attention mechanismu."
+    }
+  ],
+  "architecture_blueprint": {
+    "core_interface": "Fixní skleněné chatovací rozhraní uprostřed obrazovky",
+    "memory_layer": "Nekonečná 2D matice pixelů s dynamickým chunkingem",
+    "persistence_layer": "IndexedDB pro binární uložení synaptických vah",
+    "execution_target": "100% Client-side HTML5/JS/WASM runtime"
+  }
+}
