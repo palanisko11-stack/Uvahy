@@ -1,1 +1,2 @@
 # Uvahy
+Autor:Alan Lukačovič
